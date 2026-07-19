@@ -1,5 +1,5 @@
 # AntiRevokePlugin
 AntiRevoke for proxy environments.
 适用于代理环境下的证书反撤销插件。
-建议搭配KhoinDNS使用:https://release-assets.githubusercontent.com/github-production-release-asset/1224449257/fd3e744b-b96b-4ecf-a206-531e54013d60?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-07-19T16%3A38%3A20Z&rscd=attachment%3B+filename%3Dkhoindvn.mobileconfig&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-07-19T15%3A37%3A31Z&ske=2026-07-19T16%3A38%3A20Z&sks=b&skv=2018-11-09&sig=O8doGFB%2BouXtL6KpwcGvplxxO7vIX5ayAH34VjDRCns%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc4NDQ3NjI0NiwibmJmIjoxNzg0NDc1OTQ2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.oDXF4RwKapQD4XxinINiM7J8dB62PEpzuscnb7HAGdY&response-content-disposition=attachment%3B%20filename%3Dkhoindvn.mobileconfig&response-content-type=application%2Foctet-stream
+建议搭配KhoinDNS使用:https://short-url.cc/1zGsa
 Loon:https://raw.githubusercontent.com/deathislif3/AntiRevokePlugin/refs/heads/main/AntiRevoke.plugin
